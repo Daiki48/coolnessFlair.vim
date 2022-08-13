@@ -60,8 +60,9 @@ highlight!  NvimInternalError       guifg=#8b9aaa       guibg=#8f3231
 highlight!  Directory     guifg=#2A6E6B
 highlight!  MatchParen    guifg=#2c3138       guibg=#67A7CC
 highlight!  DiffText      guibg=#E49653       guifg=#0E1219
-highlight!  DiffAdd       guibg=#B2D235       guifg=#0E1219
-highlight!  DiffDelete    guibg=#92D7E7       guifg=#0E1219
+highlight!  DiffAdd       guibg=#0D2A52       guifg=#5AFF19
+highlight!  DiffDelete    guibg=#0D2A52       guifg=#E8204E
+highlight!  DiffChange    guibg=#0D2A52       guifg=#FFF450
 
 highlight!  link          TabLine             Function
 highlight!  link          Boolean             Constant
