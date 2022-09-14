@@ -54,7 +54,7 @@ vim.cmd[[colorscheme coolnessFlair]]
 
 ## Example
 
-When managed with TOML files
+To manage with toml file in [dein.vim](https://github.com/Shougo/dein.vim) plugin manager.
 
 ```toml
 [[plugins]]
