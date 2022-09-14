@@ -1,5 +1,6 @@
-{: align="center"}
-![logo](./static/coolnessFlair.png)
+<div align="center">
+  <img src="./static/coolnessFlair.png" alt="logo">
+</div>
 
 # coolnessFlair.vim is colorscheme for Vim(Neovim)
 
