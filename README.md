@@ -1,3 +1,5 @@
+![logo](./static/coolnessFlair.png)
+
 # coolnessFlair.vim is colorscheme for Vim(Neovim)
 
 The theme is based on calm colors.  
