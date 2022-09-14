@@ -1,6 +1,13 @@
+"                     _                         ______  _         _       
+"                    | |                       |  ____|| |       (_)      
+"   ___  ___    ___  | | _ __    ___  ___  ___ | |__   | |  __ _  _  _ __ 
+"  / __|/ _ \  / _ \ | || '_ \  / _ \/ __|/ __||  __|  | | / _` || || '__|
+" | (__| (_) || (_) || || | | ||  __/\__ \\__ \| |     | || (_| || || |   
+"  \___|\___/  \___/ |_||_| |_| \___||___/|___/|_|     |_| \__,_||_||_|   
+
 " File: coolnessFlair.vim
 
-" Description: a colour scheme for Vim (GUI only)
+" Description: A colour scheme for Vim/Neovim
 
 " Scheme: coolnessFlair
 " Maintainer: Daiki Nakashima < d a i k i 4 8 . e n g i n e e r [at] g m a i l . c o m >
