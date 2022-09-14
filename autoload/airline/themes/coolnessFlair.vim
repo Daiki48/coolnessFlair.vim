@@ -1,3 +1,8 @@
+if !has('nvim')
+	finish
+endif
+
+
 let s:save_cpo = &cpo
 set cpo&vim
 
