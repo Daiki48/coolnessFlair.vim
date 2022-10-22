@@ -27,7 +27,7 @@ Plug 'Daiki48/coolnessFlair.vim', { 'branch': 'main' }
 [packer](https://github.com/wbthomason/packer.nvim)
 
 ```lua
-use 'Daiki48/coolnessFlair.vim'
+use { 'Daiki48/coolnessFlair.vim', config = 'vim.cmd[[colorscheme coolnessFlair]]' }
 ```
 
 [dein](https://github.com/Shougo/dein.vim)
