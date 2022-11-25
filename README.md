@@ -7,6 +7,12 @@
 The theme is based on calm colors.  
 We do not use colors that are too bright.This color theme is easy on the eyes.
 
+# Screenshot
+
+There are [screenshots](https://github.com/Daiki48/coolnessFlair.vim/tree/main/screenshot) of what the various plugins will look like using this colorscheme.
+
+The screenshot here only shows the plugin I am using. So please issue if you have any problems with other plugins.
+
 # Plugin Support
 
 > **Please let me know if it doesn't work. I have confirmed that it works only in my environment.**
