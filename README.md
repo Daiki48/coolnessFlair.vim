@@ -7,6 +7,14 @@
 The theme is based on calm colors.  
 We do not use colors that are too bright.This color theme is easy on the eyes.
 
+# Confirmed to work
+
+I have confirmed that it only works on windows and macOS.  
+Not tested in Linux (including WSL2) environment.
+
+- windows (PowerShell 7.3.0)
+- macOS
+
 # Screenshot
 
 There are [screenshots](https://github.com/Daiki48/coolnessFlair.vim/tree/main/screenshot) of what the various plugins will look like using this colorscheme.
