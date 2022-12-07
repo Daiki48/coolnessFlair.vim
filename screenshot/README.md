@@ -20,4 +20,4 @@
 
 # telescope-file-browser plugin
 
-![telescope](./telescope.png)
+![telescope](./telescope-file-browser.png)
