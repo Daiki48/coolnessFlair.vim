@@ -132,5 +132,6 @@ highlight!  link         DiagnosticSignHint             DiagnosticHint
 " Telescope
 highlight!  TelescopeSelection       guifg=#0e1219       guibg=#615f82
 highlight!  TelescopeMultiIcon       guifg=#0e1444
+highlight!  link         TelescopePreviewDate           TelescopeMultiIcon
 
 " -----------------------------------------------------------------------------
