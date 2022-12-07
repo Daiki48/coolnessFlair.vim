@@ -12,7 +12,7 @@
 " Scheme: coolnessFlair
 " Maintainer: Daiki Nakashima < d a i k i 4 8 . e n g i n e e r [at] g m a i l . c o m >
 
-" Version: v0.1.1
+" Version: v0.2.0
 " Date: 8 August 2022
 " ------------------------------------------------------------------------------
 
