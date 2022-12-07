@@ -12,7 +12,7 @@
 " Scheme: coolnessFlair
 " Maintainer: Daiki Nakashima < d a i k i 4 8 . e n g i n e e r [at] g m a i l . c o m >
 
-" Version: v0.0.1
+" Version: v0.1.1
 " Date: 8 August 2022
 " ------------------------------------------------------------------------------
 
@@ -128,5 +128,8 @@ highlight!  DiagnosticHint                    guifg=#717375
 highlight!  link         DiagnosticVirtualTextHint      DiagnosticHint
 highlight!  link         DiagnosticFloatingHint         DiagnosticHint
 highlight!  link         DiagnosticSignHint             DiagnosticHint
+
+" Telescope
+highlight!  TelescopeSelection       guifg=#0e1219       guibg=#615f82
 
 " -----------------------------------------------------------------------------
