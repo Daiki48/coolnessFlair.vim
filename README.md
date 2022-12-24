@@ -2,6 +2,12 @@
   <img src="./static/coolnessFlair.png" alt="logo">
 </div>
 
+<div align="center">
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Daiki48/coolnessFlair.vim">
+  <img alt="GitHub" src="https://img.shields.io/github/license/Daiki48/coolnessFlair.vim">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Daiki48/coolnessFlair.vim">
+</div>
+
 # coolnessFlair.vim is colorscheme for Vim(Neovim)
 
 The theme is based on calm colors.  
