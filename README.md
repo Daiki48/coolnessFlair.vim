@@ -2,6 +2,7 @@
   <img src="./static/coolnessFlair.png" alt="logo">
 </div>
 
+
 <div align="center">
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Daiki48/coolnessFlair.vim">
   <img alt="GitHub" src="https://img.shields.io/github/license/Daiki48/coolnessFlair.vim">
