@@ -56,7 +56,7 @@ highlight!  Underlined    gui=bold,underline
 highlight   Error         guifg=#8b9aaa       guibg=#8f3231
 highlight!  Pmenu         guifg=#8b9aaa       guibg=#2c3138
 highlight!  StatusLineNC  guifg=#2c3138       guibg=#0D2A52
-highlight!  VertSplit     guifg=#2c3138       guibg=#8b9aaa
+highlight!  VertSplit     guifg=#2c3138       guibg=cleared
 highlight!  Function      guifg=#AFB4DB
 highlight!  Type          guifg=#6EA4CA
 highlight!  SignColumn    guibg=#001F43       gui=none
