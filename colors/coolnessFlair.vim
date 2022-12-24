@@ -12,8 +12,9 @@
 " Scheme: coolnessFlair
 " Maintainer: Daiki Nakashima < d a i k i 4 8 . e n g i n e e r [at] g m a i l . c o m >
 
-" Version: v0.2.0
+" Version: v0.2.1
 " Date: 8 August 2022
+" UpdateDate: 24 December 2022
 " ------------------------------------------------------------------------------
 
 set background=dark
@@ -54,9 +55,9 @@ highlight!  Todo          guifg=#82ade0       guibg=#0e1219
 highlight!  Todo          guisp=#28598F       gui=bold,undercurl
 highlight!  Underlined    gui=bold,underline
 highlight   Error         guifg=#8b9aaa       guibg=#8f3231
-highlight!  Pmenu         guifg=#8b9aaa       guibg=#2c3138
+highlight!  Pmenu         guifg=#8b9aaa       guibg=cleared
 highlight!  StatusLineNC  guifg=#2c3138       guibg=#0D2A52
-highlight!  VertSplit     guifg=#2c3138       guibg=cleared
+highlight!  VertSplit     guifg=#67A7CC       guibg=cleared
 highlight!  Function      guifg=#AFB4DB
 highlight!  Type          guifg=#6EA4CA
 highlight!  SignColumn    guibg=#001F43       gui=none
