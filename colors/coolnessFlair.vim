@@ -48,7 +48,8 @@ highlight!  PmenuSel      guifg=#0e1219       guibg=#8b9aaa
 highlight!  IncSearch     guifg=#0e1219       guibg=#2680af
 highlight!  LineNr        guifg=#2c3138       guibg=#0e1219
 highlight!  NonText       guifg=#2c3138
-highlight!  Statement     guifg=#4682B4
+highlight!  Statement     guifg=#67A7CC
+" highlight!  Statement     guifg=#4682B4
 highlight!  Comment       guifg=#6d5279
 highlight!  Constant      guifg=#515e97
 highlight!  Todo          guifg=#82ade0       guibg=#0e1219
