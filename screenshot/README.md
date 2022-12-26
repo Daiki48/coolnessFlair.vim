@@ -12,7 +12,17 @@
 
 # mason.nvim plugin
 
-![mason](./mason.png)
+With border setting.
+
+```lua
+require("mason").setup({
+  ui = {
+	  border = "rounded",
+	}
+})
+```
+
+![mason_border](./mason_border.png)
 
 # nvim-cmp plugin
 
