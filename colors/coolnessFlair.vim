@@ -12,9 +12,9 @@
 " Scheme: coolnessFlair
 " Maintainer: Daiki Nakashima < d a i k i 4 8 . e n g i n e e r [at] g m a i l . c o m >
 
-" Version: v0.2.1
+" Version: v0.2.2
 " Date: 8 August 2022
-" UpdateDate: 24 December 2022
+" UpdateDate: 26 December 2022
 " ------------------------------------------------------------------------------
 
 set background=dark
@@ -48,15 +48,15 @@ highlight!  PmenuSel      guifg=#0e1219       guibg=#8b9aaa
 highlight!  IncSearch     guifg=#0e1219       guibg=#2680af
 highlight!  LineNr        guifg=#2c3138       guibg=#0e1219
 highlight!  NonText       guifg=#2c3138
-highlight!  Statement     guifg=#4682B4
+highlight!  Statement     guifg=#67A7CC
 highlight!  Comment       guifg=#6d5279
 highlight!  Constant      guifg=#515e97
 highlight!  Todo          guifg=#82ade0       guibg=#0e1219
 highlight!  Todo          guisp=#28598F       gui=bold,undercurl
 highlight!  Underlined    gui=bold,underline
 highlight   Error         guifg=#8b9aaa       guibg=#8f3231
-highlight!  Pmenu         guifg=#8b9aaa       guibg=#2c3138
-highlight!  NormalFloat   guifg=#82ade0       guibg=#555E6B
+highlight!  Pmenu         guifg=#8b9aaa       guibg=cleared
+highlight!  NormalFloat   guifg=#8b9aaa       guibg=cleared
 highlight!  StatusLineNC  guifg=#2c3138       guibg=#0D2A52
 highlight!  VertSplit     guifg=#67A7CC       guibg=cleared
 highlight!  Function      guifg=#AFB4DB
@@ -136,5 +136,11 @@ highlight!  TelescopeSelection       guifg=#0e1219       guibg=#615f82
 highlight!  TelescopeMultiIcon       guifg=#0e1faf
 highlight!  link         TelescopePreviewDate           TelescopeMultiIcon
 highlight!  TelescopePreviewSize     guifg=#8f9f1f
+
+" ddu-ui-ff
+highlight!  DduUiFfFilterMatch       guifg=#8f9f1f       guibg=cleared
+highlight!  DduUiFfFloating          guifg=cleared       guibg=#717375
+highlight!  DduUiFfPrompt            guifg=#5AFF19       guibg=cleared
+highlight!  DduUiFfSelected          guifg=#E49653       guibg=cleared
 
 " -----------------------------------------------------------------------------
