@@ -56,7 +56,7 @@ highlight!  Todo          guisp=#28598F       gui=bold,undercurl
 highlight!  Underlined    gui=bold,underline
 highlight   Error         guifg=#8b9aaa       guibg=#8f3231
 highlight!  Pmenu         guifg=#8b9aaa       guibg=cleared
-highlight!  NormalFloat   guifg=#8b9aaa       guibg=#0D2A52
+highlight!  NormalFloat   guifg=#8b9aaa       guibg=cleared
 highlight!  StatusLineNC  guifg=#2c3138       guibg=#0D2A52
 highlight!  VertSplit     guifg=#67A7CC       guibg=cleared
 highlight!  Function      guifg=#AFB4DB
