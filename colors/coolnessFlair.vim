@@ -141,6 +141,7 @@ highlight!  TelescopePreviewSize     guifg=#8f9f1f
 " ddu-ui-ff
 highlight!  DduUiFfFilterMatch       guifg=#8f9f1f       guibg=cleared
 highlight!  DduUiFfFloating          guifg=cleared       guibg=#717375
+highlight!  DduUiFfPrompt            guifg=#5AFF19       guibg=cleared
 highlight!  DduUiFfSelected          guifg=#E49653       guibg=cleared
 
 " -----------------------------------------------------------------------------
