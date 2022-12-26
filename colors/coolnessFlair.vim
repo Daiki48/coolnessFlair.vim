@@ -137,4 +137,7 @@ highlight!  TelescopeMultiIcon       guifg=#0e1faf
 highlight!  link         TelescopePreviewDate           TelescopeMultiIcon
 highlight!  TelescopePreviewSize     guifg=#8f9f1f
 
+" ddu-ui-ff
+highlight!  DduUiFfMatch             guifg=#8f9f1f       guibg=cleared
+
 " -----------------------------------------------------------------------------
