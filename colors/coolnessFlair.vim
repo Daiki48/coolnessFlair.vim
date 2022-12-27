@@ -143,4 +143,8 @@ highlight!  DduUiFfFloating          guifg=cleared       guibg=#0e1219
 highlight!  DduUiFfPrompt            guifg=#5AFF19       guibg=cleared
 highlight!  DduUiFfSelected          guifg=#E49653       guibg=#E481ff
 
+" ddu-ui-filer
+highlight!  DduUiFilerFloating       guifg=cleared       guibg=#0e1555
+
+
 " -----------------------------------------------------------------------------
