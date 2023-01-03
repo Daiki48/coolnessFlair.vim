@@ -37,10 +37,6 @@ if !has('nvim')
     set cursorlineopt=number
 endif
 
-if has('nvim')
-	highlight!  SpecialKey    ctermfg=#5AFF19     guifg=#5AFF19
-endif
-
 highlight!  Normal        guifg=#8b9aaa       guibg=#081421     gui=none
 highlight!  Visual        guifg=#0e1219       guibg=#6d5279
 highlight!  StatusLine    guifg=#2c3138       guibg=#283446
@@ -76,6 +72,7 @@ highlight!  DiffText      guibg=#E49653       guifg=#0E1219
 highlight!  DiffAdd       guibg=#0D2A52       guifg=#5AFF19
 highlight!  DiffDelete    guibg=#0D2A52       guifg=#E8204E
 highlight!  DiffChange    guibg=#0D2A52       guifg=#FFF450
+highlight!  SpecialKey    guifg=#5AFF19
 
 highlight!  link          TabLine             Function
 highlight!  link          Boolean             Constant
