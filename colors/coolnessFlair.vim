@@ -98,7 +98,6 @@ highlight!  link          Special             Statement
 highlight!  link          SpecialChar         Comment
 highlight!  link          SpecialChar         Statement
 highlight!  link          SpecialComment      Comment
-" highlight!  link          SpecialKey          NonText
 highlight!  link          StorageClass        Statement
 highlight!  link          String              Constant
 highlight!  link          Structure           Statement
