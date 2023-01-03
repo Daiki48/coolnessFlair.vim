@@ -72,6 +72,7 @@ highlight!  DiffText      guibg=#E49653       guifg=#0E1219
 highlight!  DiffAdd       guibg=#0D2A52       guifg=#5AFF19
 highlight!  DiffDelete    guibg=#0D2A52       guifg=#E8204E
 highlight!  DiffChange    guibg=#0D2A52       guifg=#FFF450
+highlight!  SpecialKey    ctermfg=#5AFF19     guifg=#5AFF19
 
 highlight!  link          TabLine             Function
 highlight!  link          Boolean             Constant
@@ -97,7 +98,7 @@ highlight!  link          Special             Statement
 highlight!  link          SpecialChar         Comment
 highlight!  link          SpecialChar         Statement
 highlight!  link          SpecialComment      Comment
-highlight!  link          SpecialKey          NonText
+" highlight!  link          SpecialKey          NonText
 highlight!  link          StorageClass        Statement
 highlight!  link          String              Constant
 highlight!  link          Structure           Statement
