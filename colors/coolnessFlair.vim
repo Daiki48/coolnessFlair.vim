@@ -72,6 +72,7 @@ highlight!  DiffText      guibg=#E49653       guifg=#0E1219
 highlight!  DiffAdd       guibg=#0D2A52       guifg=#5AFF19
 highlight!  DiffDelete    guibg=#0D2A52       guifg=#E8204E
 highlight!  DiffChange    guibg=#0D2A52       guifg=#FFF450
+highlight!  SpecialKey    guifg=#5AFF19
 
 highlight!  link          TabLine             Function
 highlight!  link          Boolean             Constant
@@ -97,7 +98,6 @@ highlight!  link          Special             Statement
 highlight!  link          SpecialChar         Comment
 highlight!  link          SpecialChar         Statement
 highlight!  link          SpecialComment      Comment
-highlight!  link          SpecialKey          NonText
 highlight!  link          StorageClass        Statement
 highlight!  link          String              Constant
 highlight!  link          Structure           Statement
@@ -139,8 +139,13 @@ highlight!  TelescopePreviewSize     guifg=#8f9f1f
 
 " ddu-ui-ff
 highlight!  DduUiFfFilterMatch       guifg=#8f9f1f       guibg=cleared
-highlight!  DduUiFfFloating          guifg=cleared       guibg=#717375
+highlight!  DduUiFfFloating          guifg=cleared       guibg=#0e1219
 highlight!  DduUiFfPrompt            guifg=#5AFF19       guibg=cleared
-highlight!  DduUiFfSelected          guifg=#E49653       guibg=cleared
+highlight!  DduUiFfSelected          guifg=#E49653       guibg=#E481ff
+
+" ddu-ui-filer
+highlight!  DduUiFilerFloating       guifg=cleared       guibg=#0e143f
+highlight!  DduUiFilerSelected       guifg=#E49653       guibg=#E481ff
+
 
 " -----------------------------------------------------------------------------
